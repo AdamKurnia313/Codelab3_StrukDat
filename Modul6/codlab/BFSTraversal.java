@@ -1,4 +1,4 @@
-package StrukturData.Modul6.codlab.codlab2;
+package StrukturData.Modul6.codlab;
 
 import java.io.*;
 import java.util.*;
@@ -82,6 +82,7 @@ public class BFSTraversal{
         graph.insertEdge(2, 1);
         graph.insertEdge(2, 4);
         graph.insertEdge(2, 3);
+        //
         graph.insertEdge(3, 2);
 
         System.out.println("Breadth First Traversal starting from node 3: ");

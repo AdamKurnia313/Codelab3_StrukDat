@@ -1,4 +1,4 @@
-package StrukturData.Modul6.codlab.codlab2;
+package StrukturData.Modul6.codlab;
 
 import java.util.*;
 
